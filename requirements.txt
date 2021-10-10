@@ -6,3 +6,4 @@ pyrender==0.1.39
 trimesh==3.6.18
 smplx
 pickle
+pyvista
